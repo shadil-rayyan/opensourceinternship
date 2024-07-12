@@ -1,9 +1,9 @@
-# CodeCompass: Open Source Internships, Scholarships, and Competitions
+# CodeCompass: Open Source Internships and Competitions
 
 Welcome to CodeCompass, where we help students find exciting opportunities in internships, scholarships, and open source competitions. Stay updated with our events and sync them with your calendar to never miss out!
 
 ### Join Our Discord Servers:
-- [CodeCompass Discord](https://discord.gg/HnEqwsSu)
+- [CodeCompass Discord for students](https://discord.gg/HnEqwsSu) 
 - [ShadilCodingSchool Discord](https://discord.gg/HnEqwsSu)
 
 sync with our calender to see internship blue -previous and green-this year date 
